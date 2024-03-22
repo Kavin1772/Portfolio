@@ -34,7 +34,7 @@
   ### STM32 Vehicle Controller
 - This project involves programing a motorized vehicle using the STM32 microcontroller. The vehicle is programmed to move in a desired path, and IR sensors are used to control its direction and movement along the path. 
 - Software's used: STM32 IDE
-  ![STM32](/assets/img/eeg_band_discovery.jpeg)
+  ![STM32](Storages/Images/STM32.jpg)
 
 
   ## Competitions
@@ -42,8 +42,8 @@
   - The Competition is based on an all India ATV Competition.
   - Part of the Suspension and Steering team and was successful in assembling the All Terrain Vehicle(ATV). Showcased the ATV in the meet held at Chitkara University, Baddi, Himachal Pradesh
 
-![STM32](/assets/img/eeg_band_discovery.jpeg)
-![STM32](/assets/img/eeg_band_discovery.jpeg)
+![STM32](Storages/Images/BAJA1.jpg)
+![STM32](Storages/Images/BAJA2.jpg)
 
 
 
