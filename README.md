@@ -30,7 +30,7 @@
 ### Radio Frequecncy Carrier Combiner.
 - The research was based simulating and fabricating an Radio Frequency Carrier Combiner resonating at Ku band.
 - Software's used: CST Studio
-  
+  ![RF](Storages/Images/Combined.png)
   ### STM32 Vehicle Controller
 - This project involves programing a motorized vehicle using the STM32 microcontroller. The vehicle is programmed to move in a desired path, and IR sensors are used to control its direction and movement along the path. 
 - Software's used: STM32 IDE
@@ -42,9 +42,14 @@
   - The Competition is based on an all India ATV Competition.
   - Part of the Suspension and Steering team and was successful in assembling the All Terrain Vehicle(ATV). Showcased the ATV in the meet held at Chitkara University, Baddi, Himachal Pradesh
 
-![STM32](Storages/Images/BAJA1.jpg)
-![STM32](Storages/Images/BAJA2.jpg)
+![BAJA](Storages/Images/BAJA1.jpg)
+![BAJA](Storages/Images/BAJA2.jpg)
 
+## Conferences
+### SNU 9th Research Conference
+-During the conference at SNU, I had the opportunity to present the culmination of a year-long research endeavor. Delving into Radio Frequency Carrier combiner, my presentation showcased significant findings and insights gleaned from rigorous investigation and analysis. Engaging with fellow scholars and attendees, the session facilitated valuable discussions and contributed to the advancement of knowledge in the field.
+
+![CONF](Storages/Images/1.CR3)
 
 
  ## Clubs & Society
