@@ -3,7 +3,8 @@
 #### Technical Skills: MATLAB, CST Studio, KiCad, Arduino IDE, C++
 
 ## Work Experience
-**Control and Automation Intern @ Tecnimont Pvt Ltd (_June 2023 - July 2023_)**
+**Control and Automation Intern (_June 2023 - July 2023_)**
+** Tecnimont Pvt Ltd **
 -Learned to design and implementation of a gas plants control algorithm. 
 -Training in designing of PLC controller.
 
@@ -11,7 +12,7 @@
 - Software radio-based lab work. The task is to create a set of communications-related experiments on the Software radio platform for the 2nd year UG lab.
 - Software's Used: MATLAB Simulink.
 
-  **Hostel Representative (_Sept 2022 - May 2023_)**
+**Hostel Representative (_Sept 2022 - May 2023_)**
 
 ## Education
 - B Tech, Electronics and Communication | Shiv Nadar University 
