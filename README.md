@@ -47,7 +47,7 @@
 ### SNU 9th Research Conference
 -During the conference at SNU, I had the opportunity to present the culmination of a year-long research endeavor. Delving into Radio Frequency Carrier combiner, my presentation showcased significant findings and insights gleaned from rigorous investigation and analysis. Engaging with fellow scholars and attendees, the session facilitated valuable discussions and contributed to the advancement of knowledge in the field.
 
-![CONF](Storages/Images/1.jpg)
+![CONF](Storages/Images/Kavin K OUR Certificate.pdf)
 
 
  ## Clubs & Society
