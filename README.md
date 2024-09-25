@@ -59,8 +59,5 @@
 
 
 
- #### Clubs & Society
-  ## IEEE Students Club | Shiv Nadar University
-  ## Dauntless | Shiv Nadar University
-  ## Chess Club | Shiv Nadar University
+
     
