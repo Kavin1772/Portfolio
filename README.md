@@ -15,9 +15,8 @@
 **Hostel Representative (_Sept 2022 - May 2023_)**
 
 ## Education
-- B Tech, Electronics and Communication | Shiv Nadar University 
-- 12th | SBOA Junior College | 90.2%
-- 10th | SBOA Junior College | 82.2%
+- Bachelors in Technology, Electronics and Communication Engineering | Shiv Nadar University 
+- Masters in Science, Electrical and Computer Engineering | San Francisco State University
 
 ## Projects
 ### Design and Implementation of an IoT Health Monitoring Device.
@@ -43,8 +42,6 @@
   - The Competition is based on an all India ATV Competition.
   - Part of the Suspension and Steering team and was successful in assembling the All Terrain Vehicle(ATV). Showcased the ATV in the meet held at Chitkara University, Baddi, Himachal Pradesh
 
-![BAJA](Storages/Images/BAJA1.jpg)
-![BAJA](Storages/Images/BAJA2.jpg)
 
 ## Conferences
 ### SNU 9th Research Conference
